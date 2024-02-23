@@ -1,0 +1,10 @@
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\bin\Debug\PracticaRepositorio.exe.config
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\bin\Debug\PracticaRepositorio.exe
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\bin\Debug\PracticaRepositorio.pdb
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.csproj.AssemblyReference.cache
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.Properties.Resources.resources
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.csproj.GenerateResource.cache
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.csproj.CoreCompileInputs.cache
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.exe
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.pdb
+D:\upds\DesarrolloDeSistemasI\PracticaRepositorio\obj\Debug\PracticaRepositorio.Form1.resources
